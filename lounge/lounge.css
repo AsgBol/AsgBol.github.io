@@ -47,6 +47,9 @@ h2 {
     p#guarantee {
         margin-right: 30px;
     }
+    p.special {
+        color: red;
+    }
 } 
 
 @media print {
