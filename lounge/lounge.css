@@ -2,6 +2,9 @@
     #guarantee {
         margin-right: 250px;
     }
+    p.special {
+        color: blue;
+    }
 }
 
 @media screen and(max-device-width:480px) {
@@ -40,10 +43,9 @@ h2 {
     font-size: 130%;
 }
 
-p#guarantee {
+#guarantee {
     background-color: #a7cece;
     margin: 30px;
-    margin-right: 250px;
     border: 1px dashed white;
     border-radius: 20px;
     padding: 25px;
